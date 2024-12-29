@@ -6,7 +6,7 @@ import cors from "cors";
 import router from "./routes/routeNames.js";
 import connectDB from "./database/connection.js";
 
-// Configurations
+// Configurations //
 dotenv.config();
 
 // App setup  //
