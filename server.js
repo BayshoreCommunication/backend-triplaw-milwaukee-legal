@@ -9,7 +9,7 @@ import connectDB from "./database/connection.js";
 // Configurations
 dotenv.config();
 
-// App setup
+// App setup  //
 const app = express();
 app.use(cors());
 app.use(express.json());
